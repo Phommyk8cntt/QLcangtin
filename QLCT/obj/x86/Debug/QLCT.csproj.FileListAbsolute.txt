@@ -1,0 +1,16 @@
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\bin\Debug\QLCT.exe
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\bin\Debug\QLCT.pdb
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\obj\x86\Debug\QLCT.Form1.resources
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\obj\x86\Debug\QLCT.Form_MeNu.resources
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\obj\x86\Debug\QLCT.Properties.Resources.resources
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\obj\x86\Debug\QLCT.csproj.GenerateResource.Cache
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\obj\x86\Debug\QLCT.exe
+D:\Bai_do_an_2_work\QLCT\QLCT\QLCT\obj\x86\Debug\QLCT.pdb
+D:\QLcangtin\QLCT\obj\x86\Debug\QLCT.exe
+D:\QLcangtin\QLCT\obj\x86\Debug\QLCT.pdb
+D:\QLcangtin\QLCT\bin\Debug\QLCT.exe
+D:\QLcangtin\QLCT\bin\Debug\QLCT.pdb
+D:\QLcangtin\QLCT\obj\x86\Debug\QLCT.Form1.resources
+D:\QLcangtin\QLCT\obj\x86\Debug\QLCT.Form_MeNu.resources
+D:\QLcangtin\QLCT\obj\x86\Debug\QLCT.Properties.Resources.resources
+D:\QLcangtin\QLCT\obj\x86\Debug\QLCT.csproj.GenerateResource.Cache
